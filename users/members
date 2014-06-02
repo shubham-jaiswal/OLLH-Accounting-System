@@ -1,0 +1,11 @@
+josephin
+admin
+
+[admin@sqlledger]
+company=Our Lady of Lourdes Hospital
+dbconnect=dbi:Pg:dbname=sqlledger
+dbdriver=Pg
+dbname=sqlledger
+dbuser=sql-ledger
+stylesheet=sql-ledger.css
+
